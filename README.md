@@ -3,8 +3,8 @@ The goal is to develop a single repo that can be used to learn Javascript. It co
 
 | Day | Topic | Twitter | Blog |
 | --- | ----- | ------- | ---- |
-| 1  | DOM Manipulation | [![square-twitter](https://user-images.githubusercontent.com/121108763/209057945-745793a4-ba00-4332-91aa-15d36c81787f.svg)][1]| [![hashnode](https://user-images.githubusercontent.com/121108763/209057943-8d5b78da-8f12-4129-b63c-e8588e7d8e38.svg)][2]|
-| 2  | Javascript Introduction | [![square-twitter](https://user-images.githubusercontent.com/121108763/209057945-745793a4-ba00-4332-91aa-15d36c81787f.svg)][3]| [![hashnode](https://user-images.githubusercontent.com/121108763/209057943-8d5b78da-8f12-4129-b63c-e8588e7d8e38.svg)][4]|
+| 1  | DOM Manipulation | [![icons8-twitter-144](https://user-images.githubusercontent.com/121108763/209107359-1c06b4b9-edaf-416b-9f87-fdf5088fa5de.png)][1]| [![icons8-hashnode-144](https://user-images.githubusercontent.com/121108763/209107375-2a147b8f-009e-46eb-a00d-406b9461d2b8.png)][2]|
+| 2  | Javascript Introduction | [![icons8-twitter-144](https://user-images.githubusercontent.com/121108763/209107359-1c06b4b9-edaf-416b-9f87-fdf5088fa5de.png)][3]| [![icons8-hashnode-144](https://user-images.githubusercontent.com/121108763/209107375-2a147b8f-009e-46eb-a00d-406b9461d2b8.png)][4]|
 
 
 [1]: https://bit.ly/3Gc4GhB
